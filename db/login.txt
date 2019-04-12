@@ -1,0 +1,3 @@
+xavier|xavier
+romain|romain
+Administrateur|ad_s1te_vault
